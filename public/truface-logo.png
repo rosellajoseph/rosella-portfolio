@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>same-api-production</BucketName><RequestId>KZQCW3KBHKVW7M4Z</RequestId><HostId>aybe4wyfhOzAQwEsGskC2Ad+D5GKCh7xts+ms0aNzn6maqT2gDuMwsXCB6O2JXgq70M1eSL23c4=</HostId></Error>
